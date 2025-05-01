@@ -25,8 +25,8 @@ Além disso, adoro aprender coisas novas e estou sempre em busca de evoluir um p
 
 ---
 ### 📊 Estatísticas do GitHub
-
 <p>
+<p align="left">
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -43,7 +43,7 @@ Além disso, adoro aprender coisas novas e estou sempre em busca de evoluir um p
   />
 
 </p>
-
+</p>
 ---
 
 ### 🌿 Habilidades em crescimento
