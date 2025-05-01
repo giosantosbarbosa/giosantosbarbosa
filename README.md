@@ -1,5 +1,5 @@
-<h1 align="center">Olá, eu sou a Giovanna 🌸</h1>
-<h3 align="center">Desenvolvedora Front-End em formação | Criando com carinho, código e criatividade 💻🌷</h3>
+<h1 align="center">Olá, eu sou a Giovanna 💻</h1>
+<h3 align="center">Desenvolvedora Front-End em formação</h3>
 
 ---
 
@@ -24,27 +24,6 @@ Além disso, adoro aprender coisas novas e estou sempre em busca de evoluir um p
 </p>
 
 ---
-
-### ✨ Projetos em Destaque
-
-| 🌟 Projeto | ✨ Descrição | 🧩 Tecnologias |
-|-----------|-------------|----------------|
-| [📚 Diário de Leitura](https://github.com/giosantosbarbosa/diario-de-leitura) | App para registrar leituras de crianças com estatísticas visuais | HTML, CSS, JS |
-| [🎨 Loja de Tintas](https://github.com/giosantosbarbosa/tintometrico) | E-commerce de tintas com seleção personalizada de cores | React, JS, Styled Components |
-| [📦 Curso Google](https://github.com/giosantosbarbosa/curso-google) | Curso em vídeo com práticas e conteúdos internos para colaboradores | HTML, CSS, JS |
-
----
-
-### 🌿 Habilidades em crescimento
-
-- Layouts responsivos e acessíveis
-- Interatividade com JavaScript
-- Controle de versões com Git e GitHub
-- Organização de projetos e componentes
-- Foco em UX/UI com toques delicados de design
-
----
-
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
@@ -55,29 +34,33 @@ Além disso, adoro aprender coisas novas e estou sempre em busca de evoluir um p
 
 ---
 
-### 📬 Vamos nos conectar?
+### 🌿 Habilidades em crescimento
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/giosantosbarbosa/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%23a2d2ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/-Email-%23ffc8dd?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+- Layouts responsivos e acessíveis
+- Interatividade com JavaScript
+- Controle de versões com Git e GitHub
+- Organização de projetos e componentes
+
+---
+
+### 📬 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)  
+✉️ Email: [seuemail@email.com](mailto:seuemail@email.com)
+
+---
+
+### 💡 Um toque de criatividade
+
+> 🌟 "Código é como poesia: quando feito com alma, encanta quem lê."  
+> Aqui você vai encontrar uma dev cheia de energia, curiosidade sem fim e uma paixão real por transformar ideias em experiências digitais!
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Front-end+em+constante+evolução!;Criatividade+%2B+Tecnologia+%3D+💖;Aprendizado+diário!&center=true&width=380&height=45" />
 </p>
 
 ---
 
-### ☁️ Uma frase que me define
-
-> “Transformo ideias em interfaces que encantam. Com café, código e coração.” 💌
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFB6C1&width=435&lines=Codando+com+amor+e+propósito.;Amante+da+tecnologia+e+da+criatividade.;Vamos+construir+algo+lindo+juntos%3F" />
-</p>
-
----
-
-<p align="center">
-  ✨ Obrigada por visitar meu perfil! ✨  
+  Feito com ❤️ por Giovanna
 </p>
