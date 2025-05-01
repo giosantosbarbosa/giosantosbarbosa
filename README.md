@@ -27,7 +27,7 @@ Além disso, adoro aprender coisas novas e estou sempre em busca de evoluir um p
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
+<p align="left">
   <img 
     height="200" 
     style="padding-right: 10px;" 
