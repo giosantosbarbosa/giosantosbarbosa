@@ -26,10 +26,22 @@ Além disso, adoro aprender coisas novas e estou sempre em busca de evoluir um p
 ---
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giosantosbarbosa&show_icons=true&theme=rose_pine&hide_title=true&hide_border=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giosantosbarbosa&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giosantosbarbosa&layout=compact&theme=rose_pine&hide_border=true" alt="Linguagens mais usadas" />
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=giosantosbarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=giosantosbarbosa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
 
 ---
@@ -45,9 +57,14 @@ Além disso, adoro aprender coisas novas e estou sempre em busca de evoluir um p
 
 ### 📬 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)  
-✉️ Email: [seuemail@email.com](mailto:seuemail@email.com)
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/giovannasantosbarbosa/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%23a2d2ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:giovannasantosbarbosa@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23ffc8dd?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 ---
 
 ### 💡 Um toque de criatividade
