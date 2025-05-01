@@ -34,25 +34,23 @@ Além disso, adoro aprender coisas novas e estou sempre em busca de evoluir um p
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=giosantosbarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=giosantosbarbosa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
 </p>
 ---
 
 ### 🌿 Habilidades em crescimento
-
-- Layouts responsivos e acessíveis
-- Interatividade com JavaScript
-- Controle de versões com Git e GitHub
-- Organização de projetos e componentes
-
+<p>
+- Layouts responsivos e acessíveis</br>
+- Interatividade com JavaScript</br>
+- Controle de versões com Git e GitHub</br>
+- Organização de projetos e componentes</br>
+</p>
 ---
 
 ### 📬 Como me encontrar
