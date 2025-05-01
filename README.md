@@ -24,33 +24,32 @@ Além disso, adoro aprender coisas novas e estou sempre em busca de evoluir um p
 </p>
 
 ---
+
 ### 📊 Estatísticas do GitHub
-<p>
-<p align="left">
+
+<p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=giosantosbarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    alt="GitHub Stats" 
   />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=giosantosbarbosa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=giosantosbarbosa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    alt="Linguagens mais usadas" 
   />
 </p>
-</p>
+
 ---
 
 ### 🌿 Habilidades em crescimento
-<p>
-- Layouts responsivos e acessíveis</br>
-- Interatividade com JavaScript</br>
-- Controle de versões com Git e GitHub</br>
-- Organização de projetos e componentes</br>
-</p>
+
+- Layouts responsivos e acessíveis  
+- Interatividade com JavaScript  
+- Controle de versões com Git e GitHub  
+- Organização de projetos e componentes  
+
 ---
 
 ### 📬 Como me encontrar
@@ -63,6 +62,7 @@ Além disso, adoro aprender coisas novas e estou sempre em busca de evoluir um p
     <img src="https://img.shields.io/badge/-Email-%23ffc8dd?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 ---
 
 ### 💡 Um toque de criatividade
