@@ -1,8 +1,3 @@
-<!-- Banner animado delicado -->
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80%" alt="Coding Girl Banner" />
-</p>
-
 <h1 align="center">Olá, eu sou a Giovanna 🌸</h1>
 <h3 align="center">Desenvolvedora Front-End em formação | Criando com carinho, código e criatividade 💻🌷</h3>
 
@@ -34,9 +29,9 @@ Além disso, adoro aprender coisas novas e estou sempre em busca de evoluir um p
 
 | 🌟 Projeto | ✨ Descrição | 🧩 Tecnologias |
 |-----------|-------------|----------------|
-| [📚 Diário de Leitura](https://github.com/seuusuario/diario-de-leitura) | App para registrar leituras de crianças com estatísticas visuais | HTML, CSS, JS |
-| [🎨 Loja de Tintas](https://github.com/seuusuario/tintometrico) | E-commerce de tintas com seleção personalizada de cores | React, JS, Styled Components |
-| [📦 Curso Google](https://github.com/seuusuario/curso-google) | Curso em vídeo com práticas e conteúdos internos para colaboradores | HTML, CSS, JS |
+| [📚 Diário de Leitura](https://github.com/giosantosbarbosa/diario-de-leitura) | App para registrar leituras de crianças com estatísticas visuais | HTML, CSS, JS |
+| [🎨 Loja de Tintas](https://github.com/giosantosbarbosa/tintometrico) | E-commerce de tintas com seleção personalizada de cores | React, JS, Styled Components |
+| [📦 Curso Google](https://github.com/giosantosbarbosa/curso-google) | Curso em vídeo com práticas e conteúdos internos para colaboradores | HTML, CSS, JS |
 
 ---
 
@@ -53,9 +48,9 @@ Além disso, adoro aprender coisas novas e estou sempre em busca de evoluir um p
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=rose_pine&hide_title=true&hide_border=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=rose_pine&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=giosantosbarbosa&show_icons=true&theme=rose_pine&hide_title=true&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giosantosbarbosa&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giosantosbarbosa&layout=compact&theme=rose_pine&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 ---
@@ -63,7 +58,7 @@ Além disso, adoro aprender coisas novas e estou sempre em busca de evoluir um p
 ### 📬 Vamos nos conectar?
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/seuusuario/" target="_blank">
+  <a href="https://www.linkedin.com/in/giosantosbarbosa/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23a2d2ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:seuemail@email.com">
