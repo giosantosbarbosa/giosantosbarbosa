@@ -67,9 +67,6 @@ Além disso, adoro aprender coisas novas e estou sempre em busca de evoluir um p
 
 ### 💡 Um toque de criatividade
 
-> 🌟 "Código é como poesia: quando feito com alma, encanta quem lê."  
-> Aqui você vai encontrar uma dev cheia de energia, curiosidade sem fim e uma paixão real por transformar ideias em experiências digitais!
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Front-end+em+constante+evolução!;Criatividade+%2B+Tecnologia+%3D+💖;Aprendizado+diário!&center=true&width=380&height=45" />
 </p>
